@@ -1,4 +1,3 @@
-## Tiniest crc-32 (?)
+## Tiniest crc-16
 Compile:
-1. `gcc -W -Wall -std=c99 crc.c main.c -s -o crc32`
-1. `sudo mv crc32 /usr/local/bin`
+1. `gcc -W -Wall -std=c99 crc.c main.c -s -o crc-16`
